@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tiles List</string>
+
+    <string name="toolbar_title">Big Pay Test</string>
+    <string name="name_placeholder">No Label Value</string>
+    <string name="dp_empty_repo_list">No repos to display</string>
+</resources>
